@@ -1,0 +1,2 @@
+# CollHub
+A coordination protocol
